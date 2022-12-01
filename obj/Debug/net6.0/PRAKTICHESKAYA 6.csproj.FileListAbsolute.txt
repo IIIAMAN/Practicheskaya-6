@@ -1,0 +1,17 @@
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\bin\Debug\net6.0\PRAKTICHESKAYA 6.exe
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\bin\Debug\net6.0\PRAKTICHESKAYA 6.deps.json
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\bin\Debug\net6.0\PRAKTICHESKAYA 6.runtimeconfig.json
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\bin\Debug\net6.0\PRAKTICHESKAYA 6.dll
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\bin\Debug\net6.0\PRAKTICHESKAYA 6.pdb
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\obj\Debug\net6.0\PRAKTICHESKAYA 6.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\obj\Debug\net6.0\PRAKTICHESKAYA 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\obj\Debug\net6.0\PRAKTICHESKAYA 6.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\obj\Debug\net6.0\PRAKTICHESKAYA 6.AssemblyInfo.cs
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\obj\Debug\net6.0\PRAKTICHESKAYA 6.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\obj\Debug\net6.0\PRAKTICHESKAYA 6.csproj.CopyComplete
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\obj\Debug\net6.0\PRAKTICHESKAYA 6.dll
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\obj\Debug\net6.0\refint\PRAKTICHESKAYA 6.dll
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\obj\Debug\net6.0\PRAKTICHESKAYA 6.pdb
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\obj\Debug\net6.0\PRAKTICHESKAYA 6.genruntimeconfig.cache
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\PRAKTICHESKAYA 6\obj\Debug\net6.0\ref\PRAKTICHESKAYA 6.dll
